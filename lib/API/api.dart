@@ -1,0 +1,1 @@
+String fetchAllInterview = "https://www.ictmu.in/ict_portal/api/interview-bank.php?key=interview-bank@ict";
